@@ -1,16 +1,23 @@
-### Hi there 👋
+<p>Hi there, I'm Nguyen Hoang Nam - aka Hadess<p>
 
-<!--
-**NAM2412/NAM2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I'm a Unity Developer!</h2>
 
-Here are some ideas to get you started:
+- 🌱 I'm currently a student at the university of information technology
+- 🌱 I’m currently learning everything
+- 👀 I’m interested in playing, coding, and designing games
+- 👋 Fun fact: I am fond of designing games in WC. 
+<h3>Connect with me:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Facebook: https://www.facebook.com/nnhnam1412/
+<br>Instagram: https://www.instagram.com/nhnam24/
+<br>Linkedin: https://www.linkedin.com/in/hadess1412/
+<br>Email: nnhnam2345@gmail.com
+
+<h3>Languages and Tools:</h3>
+
+- VS Studio Code
+- Unity
+- C#
+- C++
+- Git / Github
+- Figma
