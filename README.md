@@ -21,3 +21,4 @@ Facebook: https://www.facebook.com/nnhnam1412/
 - C++
 - Git / Github
 - Figma
+- Trello
