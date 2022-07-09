@@ -15,7 +15,7 @@ Facebook: https://www.facebook.com/nnhnam1412/
 
 <h3>Languages and Tools:</h3>
 
-- VS Studio Code
+- Visual Studio Code
 - Unity
 - C#
 - C++
